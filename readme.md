@@ -1,4 +1,4 @@
-# Multivariate Verfahren in der Psychologie (Teil 1)
+# Multivariate Verfahren in der Psychologie I
 
 Zusammenfassung von Carlo Michaelis zur Vorlesung "Multivariate Verfahren" in der Psychologischen Methodenlehre & Diagnostik der HU Berlin. Sie basiert auf dem ersten Teil einer Vorlesung von Prof. Dr. Manuel Völkle im Wintersemester 2015/2016.
 
