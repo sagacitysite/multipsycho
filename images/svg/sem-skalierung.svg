@@ -1,0 +1,1052 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg4008"
+   version="1.1"
+   inkscape:version="0.91 r"
+   sodipodi:docname="sem-skalierung.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2"
+     inkscape:cx="269.27732"
+     inkscape:cy="842.74251"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1" />
+  <defs
+     id="defs4010">
+    <marker
+       style="overflow:visible"
+       id="TriangleInS"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="TriangleInS">
+      <path
+         transform="scale(-0.2)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         id="path5146" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutS"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS">
+      <path
+         transform="scale(0.2)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         id="path5155" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Send"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send">
+      <path
+         transform="scale(0.2) rotate(180) translate(6,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path5022" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutS-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS">
+      <path
+         transform="scale(0.2,0.2)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path5155-9"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutS-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS">
+      <path
+         transform="scale(0.2,0.2)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path5155-3"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutS-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS">
+      <path
+         transform="scale(0.2,0.2)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path5155-7"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutS-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS">
+      <path
+         transform="scale(0.2,0.2)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path5155-74"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutS-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS">
+      <path
+         transform="scale(0.2,0.2)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path5155-6"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutS-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS">
+      <path
+         transform="scale(0.2,0.2)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path5155-8"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutS-48"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS">
+      <path
+         transform="scale(0.2,0.2)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path5155-4"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutS-45"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS">
+      <path
+         transform="scale(0.2,0.2)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path5155-98"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutS-16"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS">
+      <path
+         transform="scale(0.2,0.2)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path5155-40"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutS-83"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS">
+      <path
+         transform="scale(0.2,0.2)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path5155-0"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutS-70"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS">
+      <path
+         transform="scale(0.2,0.2)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path5155-66"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutS-03"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS">
+      <path
+         transform="scale(0.2,0.2)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path5155-2"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutS-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS">
+      <path
+         transform="scale(0.2,0.2)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path5155-97"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInS-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInS">
+      <path
+         transform="scale(-0.2,-0.2)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path5146-4"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutS-3-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS">
+      <path
+         transform="scale(0.2,0.2)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path5155-97-2"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInS-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInS">
+      <path
+         transform="scale(-0.2,-0.2)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path5146-2"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutS-3-74"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS">
+      <path
+         transform="scale(0.2,0.2)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path5155-97-9"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInS-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInS">
+      <path
+         transform="scale(-0.2,-0.2)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path5146-9"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutS-3-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS">
+      <path
+         transform="scale(0.2,0.2)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path5155-97-3"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInS-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInS">
+      <path
+         transform="scale(-0.2,-0.2)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path5146-28"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutS-3-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS">
+      <path
+         transform="scale(0.2,0.2)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path5155-97-0"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInS-63"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInS">
+      <path
+         transform="scale(-0.2,-0.2)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path5146-7"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutS-3-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS">
+      <path
+         transform="scale(0.2,0.2)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path5155-97-8"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInS-76"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInS">
+      <path
+         transform="scale(-0.2,-0.2)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path5146-6"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutS-3-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS">
+      <path
+         transform="scale(0.2,0.2)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path5155-97-23"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutS-71"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS">
+      <path
+         transform="scale(0.2,0.2)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path5155-04"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInS-769"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInS-769">
+      <path
+         transform="scale(-0.2,-0.2)"
+         style="stroke:#7f7f7f;stroke-width:1pt;fill:#7f7f7f;fill-rule:evenodd"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path8370"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutS-3j"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS-3j">
+      <path
+         transform="scale(0.2,0.2)"
+         style="stroke:#7f7f7f;stroke-width:1pt;fill:#7f7f7f;fill-rule:evenodd"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path8373"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInS-769-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInS-769">
+      <path
+         transform="scale(-0.2,-0.2)"
+         style="fill:#7f7f7f;fill-rule:evenodd;stroke:#7f7f7f;stroke-width:1pt"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path8370-4"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutS-3j-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS-3j">
+      <path
+         transform="scale(0.2,0.2)"
+         style="fill:#7f7f7f;fill-rule:evenodd;stroke:#7f7f7f;stroke-width:1pt"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path8373-0"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutS-00"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(0.2,0.2)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path5155-973" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker4546"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(0.2,0.2)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path4548" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker4550"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(0.2,0.2)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path4552" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker4554"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(0.2,0.2)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path4556" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker4558"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(0.2,0.2)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path4560" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker4562"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(0.2,0.2)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path4564" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInS-74"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInS">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.2,-0.2)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path5146-42" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutS-3-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS">
+      <path
+         transform="scale(0.2,0.2)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path5155-97-6"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker4570"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInS">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.2,-0.2)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path4572" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker4574"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS">
+      <path
+         transform="scale(0.2,0.2)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path4576"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker4578"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInS">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.2,-0.2)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path4580" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker4582"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS">
+      <path
+         transform="scale(0.2,0.2)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path4584"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInS-769-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInS-769">
+      <path
+         transform="scale(-0.2,-0.2)"
+         style="fill:#7f7f7f;fill-rule:evenodd;stroke:#7f7f7f;stroke-width:1pt"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path8370-5"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutS-3j-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS-3j">
+      <path
+         transform="scale(0.2,0.2)"
+         style="fill:#7f7f7f;fill-rule:evenodd;stroke:#7f7f7f;stroke-width:1pt"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path8373-06"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata4013">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       x="193.04015"
+       y="113.32437"
+       id="text8789"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan8791"
+         x="0"
+         y="0"><tspan
+           style="font-size:65.00091553%;baseline-shift:sub"
+           id="tspan8793" /></tspan></text>
+    <g
+       id="g4496"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/carlo/Dateien/Lebensphasen/Studium/HU Berlin/Statistik/1. Semester/Multivariate Verfahren (Psychometrie)/Zusammenfassung/images/svg/text8795-8-1-1.png"
+         style="fill:none;stroke:#000000;stroke-width:1.99999988;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect4544-5"
+         width="38"
+         height="38"
+         x="161"
+         y="228.36218" />
+      <ellipse
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/carlo/Dateien/Lebensphasen/Studium/HU Berlin/Statistik/1. Semester/Multivariate Verfahren (Psychometrie)/Zusammenfassung/images/svg/text8795-8-1-1.png"
+         style="fill:none;stroke:#000000;stroke-width:3.52743006;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="path4016-4"
+         transform="matrix(0.52983211,0,0,0.60674322,63.056337,199.52597)"
+         d="m 256.57875,169.48886 a 35.860416,31.31473 0 1 1 -71.72083,0 35.860416,31.31473 0 1 1 71.72083,0 z"
+         sodipodi:type="arc"
+         sodipodi:ry="31.31473"
+         sodipodi:rx="35.860416"
+         sodipodi:cy="169.48886"
+         sodipodi:cx="220.71834" />
+      <ellipse
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/carlo/Dateien/Lebensphasen/Studium/HU Berlin/Statistik/1. Semester/Multivariate Verfahren (Psychometrie)/Zusammenfassung/images/svg/text8795-8-1-1.png"
+         style="fill:none;stroke:#000000;stroke-width:3.52743006;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="path4016-4-6"
+         transform="matrix(0.52983211,0,0,0.60674322,108.05634,199.52597)"
+         d="m 256.57875,169.48886 a 35.860416,31.31473 0 1 1 -71.72083,0 35.860416,31.31473 0 1 1 71.72083,0 z"
+         sodipodi:type="arc"
+         sodipodi:ry="31.31473"
+         sodipodi:rx="35.860416"
+         sodipodi:cy="169.48886"
+         sodipodi:cx="220.71834" />
+      <ellipse
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/carlo/Dateien/Lebensphasen/Studium/HU Berlin/Statistik/1. Semester/Multivariate Verfahren (Psychometrie)/Zusammenfassung/images/svg/text8795-8-1-1.png"
+         style="fill:none;stroke:#000000;stroke-width:3.52743006;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="path4016-4-3"
+         transform="matrix(0.52983211,0,0,0.60674322,153.05634,199.52597)"
+         d="m 256.57875,169.48886 a 35.860416,31.31473 0 1 1 -71.72083,0 35.860416,31.31473 0 1 1 71.72083,0 z"
+         sodipodi:type="arc"
+         sodipodi:ry="31.31473"
+         sodipodi:rx="35.860416"
+         sodipodi:cy="169.48886"
+         sodipodi:cx="220.71834" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/carlo/Dateien/Lebensphasen/Studium/HU Berlin/Statistik/1. Semester/Multivariate Verfahren (Psychometrie)/Zusammenfassung/images/svg/text8795-8-1-1.png"
+         style="fill:none;stroke:#000000;stroke-width:1.99999988;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect4544-5-8"
+         width="38"
+         height="38"
+         x="251"
+         y="228.36218" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/carlo/Dateien/Lebensphasen/Studium/HU Berlin/Statistik/1. Semester/Multivariate Verfahren (Psychometrie)/Zusammenfassung/images/svg/text8795-8-1-1.png"
+         style="fill:none;stroke:#000000;stroke-width:1.99999988;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect4544-5-4"
+         width="38"
+         height="38"
+         x="206"
+         y="228.36218" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/carlo/Dateien/Lebensphasen/Studium/HU Berlin/Statistik/1. Semester/Multivariate Verfahren (Psychometrie)/Zusammenfassung/images/svg/text8795-8-1-1.png"
+         style="fill:none;stroke:#000000;stroke-width:1.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-end:url(#TriangleOutS)"
+         d="m 225,202.22966 0,21.57452"
+         id="path4821"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/carlo/Dateien/Lebensphasen/Studium/HU Berlin/Statistik/1. Semester/Multivariate Verfahren (Psychometrie)/Zusammenfassung/images/svg/text8795-8-1-1.png"
+         style="fill:none;stroke:#000000;stroke-width:1.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-end:url(#TriangleOutS)"
+         d="m 224.02547,202.2796 -41.74628,22.62306"
+         id="path4821-3"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/carlo/Dateien/Lebensphasen/Studium/HU Berlin/Statistik/1. Semester/Multivariate Verfahren (Psychometrie)/Zusammenfassung/images/svg/text8795-8-1-1.png"
+         style="fill:none;stroke:#000000;stroke-width:1.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-end:url(#TriangleOutS)"
+         d="m 226,202.2796 41.74628,22.62306"
+         id="path4821-3-1"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/carlo/Dateien/Lebensphasen/Studium/HU Berlin/Statistik/1. Semester/Multivariate Verfahren (Psychometrie)/Zusammenfassung/images/svg/text8795-8-1-1.png"
+         style="fill:none;stroke:#000000;stroke-width:1.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-end:url(#TriangleOutS)"
+         d="m 225,283.36218 0,-12.37797"
+         id="path4821-6"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/carlo/Dateien/Lebensphasen/Studium/HU Berlin/Statistik/1. Semester/Multivariate Verfahren (Psychometrie)/Zusammenfassung/images/svg/text8795-8-1-1.png"
+         style="fill:none;stroke:#000000;stroke-width:1.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-end:url(#TriangleOutS)"
+         d="m 180,283.36218 0,-12.37797"
+         id="path4821-6-0"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/carlo/Dateien/Lebensphasen/Studium/HU Berlin/Statistik/1. Semester/Multivariate Verfahren (Psychometrie)/Zusammenfassung/images/svg/text8795-8-1-1.png"
+         style="fill:none;stroke:#000000;stroke-width:1.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-end:url(#TriangleOutS)"
+         d="m 270,283.36218 0,-12.37797"
+         id="path4821-6-7"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/carlo/Dateien/Lebensphasen/Studium/HU Berlin/Statistik/1. Semester/Multivariate Verfahren (Psychometrie)/Zusammenfassung/images/svg/text8795-8-1-1.png"
+         sodipodi:type="arc"
+         style="fill:none;stroke:#000000;stroke-width:5.74254894;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-start:url(#TriangleInS);marker-end:url(#TriangleOutS-3)"
+         id="path7051"
+         sodipodi:cx="109.25"
+         sodipodi:cy="77.862183"
+         sodipodi:rx="26.75"
+         sodipodi:ry="20"
+         d="m 122.625,60.541675 a 26.75,20 0 1 1 -26.749989,-5e-6"
+         sodipodi:start="5.2359878"
+         sodipodi:end="10.471976"
+         sodipodi:open="true"
+         transform="matrix(0.29901549,0,0,0.40565507,147.33256,300.66254)" />
+      <ellipse
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/carlo/Dateien/Lebensphasen/Studium/HU Berlin/Statistik/1. Semester/Multivariate Verfahren (Psychometrie)/Zusammenfassung/images/svg/text8795-8-1-1.png"
+         style="fill:none;stroke:#000000;stroke-width:2.79254866;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="path4016"
+         transform="matrix(0.66926161,0,0,0.76641249,77.28169,47.463803)"
+         d="m 256.57875,169.48886 a 35.860416,31.31473 0 1 1 -71.72083,0 35.860416,31.31473 0 1 1 71.72083,0 z"
+         sodipodi:type="arc"
+         sodipodi:ry="31.31473"
+         sodipodi:rx="35.860416"
+         sodipodi:cy="169.48886"
+         sodipodi:cx="220.71834" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/carlo/Dateien/Lebensphasen/Studium/HU Berlin/Statistik/1. Semester/Multivariate Verfahren (Psychometrie)/Zusammenfassung/images/svg/text8795-8-1-1.png"
+         sodipodi:type="arc"
+         style="fill:none;stroke:#000000;stroke-width:5.74254894;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-start:url(#TriangleInS);marker-end:url(#TriangleOutS-3)"
+         id="path7051-3"
+         sodipodi:cx="109.25"
+         sodipodi:cy="77.862183"
+         sodipodi:rx="26.75"
+         sodipodi:ry="20"
+         d="m 122.625,60.541675 a 26.75,20 0 1 1 -26.749989,-5e-6"
+         sodipodi:start="5.2359878"
+         sodipodi:end="10.471976"
+         sodipodi:open="true"
+         transform="matrix(0.29901549,0,0,0.40565507,192.33256,300.66254)" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/carlo/Dateien/Lebensphasen/Studium/HU Berlin/Statistik/1. Semester/Multivariate Verfahren (Psychometrie)/Zusammenfassung/images/svg/text8795-8-1-1.png"
+         sodipodi:type="arc"
+         style="fill:none;stroke:#000000;stroke-width:5.74254894;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-start:url(#TriangleInS);marker-end:url(#TriangleOutS-3)"
+         id="path7051-7"
+         sodipodi:cx="109.25"
+         sodipodi:cy="77.862183"
+         sodipodi:rx="26.75"
+         sodipodi:ry="20"
+         d="m 122.625,60.541675 a 26.75,20 0 1 1 -26.749989,-5e-6"
+         sodipodi:start="5.2359878"
+         sodipodi:end="10.471976"
+         sodipodi:open="true"
+         transform="matrix(0.29901549,0,0,0.40565507,237.33256,300.66254)" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/carlo/Dateien/Lebensphasen/Studium/HU Berlin/Statistik/1. Semester/Multivariate Verfahren (Psychometrie)/Zusammenfassung/images/svg/text8795-8-1-1.png"
+         sodipodi:type="arc"
+         style="marker-end:url(#TriangleOutS-3j);stroke-opacity:1;marker-start:url(#TriangleInS-769);stroke-dashoffset:0;stroke:#7f7f7f;stroke-dasharray:none;stroke-miterlimit:4;stroke-width:5.74254893999999982;fill:none"
+         id="path7051-7-5"
+         sodipodi:cx="109.25"
+         sodipodi:cy="77.862183"
+         sodipodi:rx="26.75"
+         sodipodi:ry="20"
+         d="m 122.625,60.541675 a 26.75,20 0 1 1 -26.749989,-5e-6"
+         sodipodi:start="5.2359878"
+         sodipodi:end="10.471976"
+         sodipodi:open="true"
+         transform="matrix(0,0.29901549,-0.40565507,0,221.69965,144.69474)" />
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         sodipodi:linespacing="125%"
+         id="text8795"
+         y="250.37859"
+         x="173.07529"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         xml:space="preserve"><tspan
+           style="font-size:18px"
+           y="250.37859"
+           x="173.07529"
+           id="tspan8797"
+           sodipodi:role="line">x<tspan
+   id="tspan8801"
+   style="font-size:65.00091553%;baseline-shift:sub">1</tspan></tspan></text>
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/carlo/Dateien/Lebensphasen/Studium/HU Berlin/Statistik/1. Semester/Multivariate Verfahren (Psychometrie)/Zusammenfassung/images/svg/text8795-8-1-1.png"
+         sodipodi:linespacing="125%"
+         id="text8795-7"
+         y="250.37859"
+         x="217.08694"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         xml:space="preserve"><tspan
+           style="font-size:18px"
+           y="250.37859"
+           x="217.08694"
+           id="tspan8797-9"
+           sodipodi:role="line">x<tspan
+   id="tspan8871"
+   style="font-size:65.00091553%;baseline-shift:sub">2</tspan></tspan></text>
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/carlo/Dateien/Lebensphasen/Studium/HU Berlin/Statistik/1. Semester/Multivariate Verfahren (Psychometrie)/Zusammenfassung/images/svg/text8795-8-1-1.png"
+         sodipodi:linespacing="125%"
+         id="text8795-1"
+         y="250.32146"
+         x="262.11551"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         xml:space="preserve"><tspan
+           style="font-size:18px"
+           y="250.32146"
+           x="262.11551"
+           id="tspan8797-90"
+           sodipodi:role="line">x<tspan
+   id="tspan8801-2"
+   style="font-size:65.00091553%;baseline-shift:sub">3</tspan></tspan></text>
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         sodipodi:linespacing="125%"
+         id="text8795-8"
+         y="182.40007"
+         x="218.18954"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         xml:space="preserve"><tspan
+           style="font-size:18px"
+           y="182.40007"
+           x="218.18954"
+           id="tspan8797-2"
+           sodipodi:role="line">ξ<tspan
+   id="tspan8897"
+   style="font-size:65.00091553%;baseline-shift:sub">1</tspan></tspan></text>
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/carlo/Dateien/Lebensphasen/Studium/HU Berlin/Statistik/1. Semester/Multivariate Verfahren (Psychometrie)/Zusammenfassung/images/svg/text8795-8-1-1.png"
+         sodipodi:linespacing="125%"
+         id="text8951"
+         y="307.3913"
+         x="172.24033"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         xml:space="preserve"><tspan
+           style="font-size:18px"
+           y="307.3913"
+           x="172.24033"
+           id="tspan8953"
+           sodipodi:role="line">δ<tspan
+   id="tspan8955"
+   style="font-size:65.00091553%;baseline-shift:sub">1</tspan></tspan></text>
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/carlo/Dateien/Lebensphasen/Studium/HU Berlin/Statistik/1. Semester/Multivariate Verfahren (Psychometrie)/Zusammenfassung/images/svg/text8795-8-1-1.png"
+         sodipodi:linespacing="125%"
+         id="text8951-3"
+         y="307.3913"
+         x="216.25198"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         xml:space="preserve"><tspan
+           style="font-size:18px"
+           y="307.3913"
+           x="216.25198"
+           id="tspan8953-7"
+           sodipodi:role="line">δ<tspan
+   id="tspan8955-0"
+   style="font-size:65.00091553%;baseline-shift:sub">2</tspan></tspan></text>
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/carlo/Dateien/Lebensphasen/Studium/HU Berlin/Statistik/1. Semester/Multivariate Verfahren (Psychometrie)/Zusammenfassung/images/svg/text8795-8-1-1.png"
+         sodipodi:linespacing="125%"
+         id="text8951-1"
+         y="307.33417"
+         x="261.28055"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         xml:space="preserve"><tspan
+           style="font-size:18px"
+           y="307.33417"
+           x="261.28055"
+           id="tspan8953-8"
+           sodipodi:role="line">δ<tspan
+   id="tspan8955-4"
+   style="font-size:65.00091553%;baseline-shift:sub">3</tspan></tspan></text>
+    </g>
+    <rect
+       style="fill:none;stroke:#7f7f7f;stroke-width:1.99999964;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.49803922"
+       id="rect9070-8-7"
+       width="128"
+       height="33"
+       x="161"
+       y="259.26941"
+       rx="10"
+       ry="10"
+       inkscape:export-filename="/home/carlo/Dateien/Lebensphasen/Studium/HU Berlin/Statistik/1. Semester/Multivariate Verfahren (Psychometrie)/Zusammenfassung/images/svg/text8795-8-1-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>

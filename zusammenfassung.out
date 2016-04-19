@@ -1,0 +1,61 @@
+\BOOKMARK [1][-]{section.1}{Einf\374hrung}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Psychologische Methodenlehre}{section.1}% 2
+\BOOKMARK [3][-]{subsubsection.1.1.1}{Kriterien einer Theorie}{subsection.1.1}% 3
+\BOOKMARK [2][-]{subsection.1.2}{Struktur eines Forschungsvorhabens \046 Kriterien guter Forschung}{section.1}% 4
+\BOOKMARK [3][-]{subsubsection.1.2.1}{Sampling}{subsection.1.2}% 5
+\BOOKMARK [3][-]{subsubsection.1.2.2}{Untersuchungsdesign}{subsection.1.2}% 6
+\BOOKMARK [3][-]{subsubsection.1.2.3}{Messung}{subsection.1.2}% 7
+\BOOKMARK [3][-]{subsubsection.1.2.4}{Analyse und Schlussfolgerung}{subsection.1.2}% 8
+\BOOKMARK [1][-]{section.2}{Multiple lineare Regression}{}% 9
+\BOOKMARK [2][-]{subsection.2.1}{Grundlagen}{section.2}% 10
+\BOOKMARK [3][-]{subsubsection.2.1.1}{Komponenten der Regressionsgleichung}{subsection.2.1}% 11
+\BOOKMARK [3][-]{subsubsection.2.1.2}{Partialregressionsgewichte}{subsection.2.1}% 12
+\BOOKMARK [3][-]{subsubsection.2.1.3}{Methode der kleinsten Quadrate \(OLS\): Bivariate Regression}{subsection.2.1}% 13
+\BOOKMARK [3][-]{subsubsection.2.1.4}{Methode der kleinsten Quadrate \(OLS\): Multiple Regression}{subsection.2.1}% 14
+\BOOKMARK [3][-]{subsubsection.2.1.5}{Standardisierte Regressionsgewichte}{subsection.2.1}% 15
+\BOOKMARK [3][-]{subsubsection.2.1.6}{Multiples R und Determinationskoeffizient}{subsection.2.1}% 16
+\BOOKMARK [3][-]{subsubsection.2.1.7}{Partial- und Semipartialkorrelation}{subsection.2.1}% 17
+\BOOKMARK [3][-]{subsubsection.2.1.8}{Statistische Inferenz}{subsection.2.1}% 18
+\BOOKMARK [3][-]{subsubsection.2.1.9}{Annahmen und Pr\374fung der multiplen linearen Regression \(MLR\)}{subsection.2.1}% 19
+\BOOKMARK [2][-]{subsection.2.2}{Pfadanalyse}{section.2}% 20
+\BOOKMARK [3][-]{subsubsection.2.2.1}{Hierarchischer F-Test}{subsection.2.2}% 21
+\BOOKMARK [3][-]{subsubsection.2.2.2}{Pfaddiagramme und Notation}{subsection.2.2}% 22
+\BOOKMARK [3][-]{subsubsection.2.2.3}{Hierarchischer Ansatz}{subsection.2.2}% 23
+\BOOKMARK [3][-]{subsubsection.2.2.4}{Simultaner Ansatz}{subsection.2.2}% 24
+\BOOKMARK [2][-]{subsection.2.3}{Kategoriale Pr\344diktoren}{section.2}% 25
+\BOOKMARK [3][-]{subsubsection.2.3.1}{Kodierung kategorialer Variablen}{subsection.2.3}% 26
+\BOOKMARK [3][-]{subsubsection.2.3.2}{Allgemeines Lineares Modell \(ALM\)}{subsection.2.3}% 27
+\BOOKMARK [1][-]{section.3}{Logistische Regression}{}% 28
+\BOOKMARK [2][-]{subsection.3.1}{Allgemeines und verallgemeinertes lineares Modell}{section.3}% 29
+\BOOKMARK [2][-]{subsection.3.2}{Diskriminanzanalyse}{section.3}% 30
+\BOOKMARK [2][-]{subsection.3.3}{Drei Formen der logistischen Regressionsgleichung}{section.3}% 31
+\BOOKMARK [3][-]{subsubsection.3.3.1}{Beispiel: Bef\366rderung}{subsection.3.3}% 32
+\BOOKMARK [2][-]{subsection.3.4}{Parametersch\344tzung mit Maximum-Likelihood}{section.3}% 33
+\BOOKMARK [2][-]{subsection.3.5}{Deviance}{section.3}% 34
+\BOOKMARK [2][-]{subsection.3.6}{Pseudo R}{section.3}% 35
+\BOOKMARK [3][-]{subsubsection.3.6.1}{Normed Fit Index}{subsection.3.6}% 36
+\BOOKMARK [3][-]{subsubsection.3.6.2}{Cox and Snell Index}{subsection.3.6}% 37
+\BOOKMARK [3][-]{subsubsection.3.6.3}{Nagelkerke Index}{subsection.3.6}% 38
+\BOOKMARK [2][-]{subsection.3.7}{Statistische Inferenz}{section.3}% 39
+\BOOKMARK [3][-]{subsubsection.3.7.1}{Likelihood Ratio Test}{subsection.3.7}% 40
+\BOOKMARK [3][-]{subsubsection.3.7.2}{z-Test und Wald-Test}{subsection.3.7}% 41
+\BOOKMARK [2][-]{subsection.3.8}{Standardisierung}{section.3}% 42
+\BOOKMARK [2][-]{subsection.3.9}{Bemerkungen}{section.3}% 43
+\BOOKMARK [1][-]{section.4}{Strukturgleichungsmodelle}{}% 44
+\BOOKMARK [2][-]{subsection.4.1}{Grundlagen}{section.4}% 45
+\BOOKMARK [3][-]{subsubsection.4.1.1}{LISREL: Messodell und Strukturmodell}{subsection.4.1}% 46
+\BOOKMARK [3][-]{subsubsection.4.1.2}{Modellimplizierte Kovarianzmatrix}{subsection.4.1}% 47
+\BOOKMARK [3][-]{subsubsection.4.1.3}{Exkurs: RAM-Notation}{subsection.4.1}% 48
+\BOOKMARK [3][-]{subsubsection.4.1.4}{Software}{subsection.4.1}% 49
+\BOOKMARK [2][-]{subsection.4.2}{Angewandte Strukturgleichungsmodelle}{section.4}% 50
+\BOOKMARK [3][-]{subsubsection.4.2.1}{Modellspezifikation}{subsection.4.2}% 51
+\BOOKMARK [3][-]{subsubsection.4.2.2}{Modellidentifikation}{subsection.4.2}% 52
+\BOOKMARK [3][-]{subsubsection.4.2.3}{Modellsch\344tzung}{subsection.4.2}% 53
+\BOOKMARK [3][-]{subsubsection.4.2.4}{Modellevaluation}{subsection.4.2}% 54
+\BOOKMARK [3][-]{subsubsection.4.2.5}{Modellinterpretation}{subsection.4.2}% 55
+\BOOKMARK [1][-]{section.5}{Vertiefungen}{}% 56
+\BOOKMARK [2][-]{subsection.5.1}{Kausalit\344t}{section.5}% 57
+\BOOKMARK [3][-]{subsubsection.5.1.1}{Kausalit\344t bei Isolation}{subsection.5.1}% 58
+\BOOKMARK [3][-]{subsubsection.5.1.2}{Bedeutung des Fehlerterms}{subsection.5.1}% 59
+\BOOKMARK [3][-]{subsubsection.5.1.3}{Kausalit\344t bei Pseudoisolation}{subsection.5.1}% 60
+\BOOKMARK [3][-]{subsubsection.5.1.4}{Randomisierung}{subsection.5.1}% 61
